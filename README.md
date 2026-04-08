@@ -1,5 +1,7 @@
 # AoE2DE Random Civ Picker
 
+[Visit the tool](https://felixselter.github.io/aoe2-civ-selector/)
+
 This is a vanilla web app for Age of Empires II: Definitive Edition.
 
 It is a random civilisation picker that is more advanced the built-in one. The built-in picker does not support blacklist/whitelist control and often feels uneven in practice (some civs appear very often, others much less). This tool fixes that by letting you control the distribution directly.
