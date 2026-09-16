@@ -48,6 +48,7 @@ const CIVS: CivDef[] = [
   { name: "Celts", image: `${AOE_COMPANION}/celts.png` },
   { name: "Chinese", image: `${AOE_COMPANION}/chinese.png` },
   { name: "Cumans", image: `${AOE_COMPANION}/cumans.png` },
+  { name: "Danes", image: "https://static.wikia.nocookie.net/ageofempires/images/7/7d/Danes_AoE2.png/revision/latest/" },
   { name: "Dravidians", image: `${AOE_COMPANION}/dravidians.png` },
   { name: "Ethiopians", image: `${AOE_COMPANION}/ethiopians.png` },
   { name: "Franks", image: `${AOE_COMPANION}/franks.png` },
@@ -100,6 +101,7 @@ const CIVS: CivDef[] = [
       "https://static.wikia.nocookie.net/ageofempires/images/f/ff/Romans_AoE2.png/revision/latest/",
   },
   { name: "Saracens", image: `${AOE_COMPANION}/saracens.png` },
+  { name: "Saxons", image: "https://static.wikia.nocookie.net/ageofempires/images/3/3b/Saxons_AoE2.png/revision/latest/" },
   {
     name: "Shu",
     image:
@@ -116,6 +118,7 @@ const CIVS: CivDef[] = [
       "https://static.wikia.nocookie.net/ageofempires/images/f/f3/Tupi_AoE2.png/revision/latest",
   },
   { name: "Turks", image: `${AOE_COMPANION}/turks.png` },
+  { name: "Varangians", image: "https://static.wikia.nocookie.net/ageofempires/images/e/e0/Varangians_AoE2.png/revision/latest/" },
   { name: "Vietnamese", image: `${AOE_COMPANION}/vietnamese.png` },
   { name: "Vikings", image: `${AOE_COMPANION}/vikings.png` },
   {
